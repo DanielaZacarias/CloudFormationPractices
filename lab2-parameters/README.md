@@ -24,7 +24,7 @@ Use input parameters to be able to re-use CloudFormation templates-
 1. Insert ``lab2-$username``as stack name. Replace ``$username``with your username (e.g. lab2-awittig).
 1. Select a random subnet as parameter for **Subnet**.
 1. Insert ``t2.micro`` as parameter for **InstanceType**.
-1. Insert ``ami-bff32ccc`` (eu-west-1) or ``ami-bc5b48d0``(eu-central-1) as parameter for **AMI**.
+1. Insert ``ami-009d6802948d06e52`` as parameter for **AMI**.
 1. Click **Next** button.
 1. Skip next step by clicking on **Next** button.
 1. Review your input and click **Create** button.
